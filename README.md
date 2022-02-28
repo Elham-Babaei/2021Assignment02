@@ -1,4 +1,4 @@
-# Commands to compile and run 2d-tree program
+# Commands to compile and run kdtree.c program
 
 - qsub -q dssc_gpu -l nodes=1:ppn=33 -l walltime=00:10:00 -I
 - cd $PBS_O_WORKDIR
